@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/ygueron/work/169'
+let g:netrw_dirhist_2='/home/ygueron/work/169/HW2/rails-intro'
+let g:netrw_dirhist_3='/home/ygueron/work/169/HW2/rails-intro/app'
+let g:netrw_dirhist_4='/home/ygueron/work/169/HW2/rails-intro/app/views'
+let g:netrw_dirhist_5='/home/ygueron/work/169/HW2/rails-intro/app/views/movies'
+let g:netrw_dirhist_6='/home/ygueron/work/169'
+let g:netrw_dirhist_7='/home/ygueron/work/169/HW4/bdd-tdd-cycle/.git'
